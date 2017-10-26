@@ -47,3 +47,5 @@ function osbackup() {
         echo "Backup completed."
     fi
 }
+
+osbackup
