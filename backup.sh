@@ -9,7 +9,7 @@
 # BACKUPDIR='/media/backups'
 BACKUPDIR='/media/backups'
 
-# The directory in which the full OS backup will be archived.
+# The directory in which the archive file will be stored.
 # e.g.:
 # ARCHIVEDIR='/media/archives'
 ARCHIVEDIR='/media/archives'
